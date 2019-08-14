@@ -1,0 +1,7 @@
+{
+    "contatos":[
+        {"id": 1,"nome": "Gina Moraes", "telefone": "11 99869-3333","email": "gina@yahoo.com.br"},
+        {"id": 2,"nome": "Wagner Pires", "telefone": "13 99125-7070","email": "was@gmail.com"},
+        {"id": 3,"nome": "Camila Pires", "telefone": "13 99835-7070","email": "camila@gmail.com"}
+    ]
+}
