@@ -1,7 +1,7 @@
 {
-    "contatos":{
+    "contatos": [
         {"id": 1,"nome": "Gi Moraes", "telefone": "11 99869-3333","email": "gina@yahoo.com.br"},
         {"id": 2,"nome": "Vagner Santos", "telefone": "13 99125-7070","email": "was@gmail.com"},
         {"id": 3,"nome": "Camila Maria", "telefone": "13 99835-7070","email": "camila@gmail.com"}
-    }
+    ]
 }
